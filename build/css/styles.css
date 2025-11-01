@@ -662,15 +662,15 @@ video {
 
 @keyframes open-menu {
   0% {
-    transfrom: scaleY(0);
+    transform: scaleY(0);
   }
 
   80% {
-    transfrom: scaleY(1.2);
+    transform: scaleY(1.2);
   }
 
   100% {
-    transfrom: scaleY(1);
+    transform: scaleY(1);
   }
 }
 
@@ -1299,4 +1299,3 @@ video {
     color: rgb(255 255 255 / var(--tw-text-opacity, 1));
   }
 }
-/*# sourceMappingURL=styles.css.map */

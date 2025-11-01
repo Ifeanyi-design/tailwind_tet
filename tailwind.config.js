@@ -9,9 +9,9 @@ module.exports = {
       },
       keyframes: {
         'open-menu': {
-          '0%': {transfrom: 'scaleY(0)'},
-          '80%': {transfrom: 'scaleY(1.2)'},
-          '100%': {transfrom: 'scaleY(1)'},
+          '0%': {transform: 'scaleY(0)'},
+          '80%': {transform: 'scaleY(1.2)'},
+          '100%': {transform: 'scaleY(1)'},
         },
       },
       animation: {
